@@ -1,0 +1,20 @@
+body {
+style="background-color : #CDF0EA;"
+}
+h1{
+  color: red;
+}
+h2{
+  color: blue;
+}
+h3{
+  color: green;
+}
+
+hr {
+  background-color:  #CDF0EA;
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 0px;
+  width: 5%;
+}
